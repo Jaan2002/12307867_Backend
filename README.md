@@ -1,4 +1,4 @@
-# Waterdip AI Backend Assignment - New
+# Waterdip AI Backend Assignment
 
 > Notes: The submission needs to be written in python 3.7+ using any framework i,e Flask, Django, FastAPI
 > 
